@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Personal Profile Card',
+      title: 'Personal Profile Card Bintang',
       theme: AppTheme.lightTheme,
       home: const ProfileScreen(),
       debugShowCheckedModeBanner: false,
