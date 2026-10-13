@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: ProfileCard(
-          nama: "Bintang Saputra",
+          nama: "Bintang saputra",
           nim: "20240801231",
           hobi: "Bermain Volly Dan Bermain Game",
           skorAktivitas: 81, // Hasil perhitungan: 31 + 50
