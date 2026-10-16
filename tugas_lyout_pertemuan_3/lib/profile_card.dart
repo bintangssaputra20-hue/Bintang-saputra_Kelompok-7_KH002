@@ -61,7 +61,7 @@ class ProfileCard extends StatelessWidget {
                   ),
                   SizedBox(height: 4.0),
                   Text(
-                    "Bintang Saputra",
+                    "Bintang saputra",
                     style: TextStyle(
                       fontSize: 16.0,
                       fontWeight: FontWeight.bold,
