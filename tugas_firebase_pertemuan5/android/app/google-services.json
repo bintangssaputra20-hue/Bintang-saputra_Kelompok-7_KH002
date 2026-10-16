@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574637158592",
+    "project_id": "praktikum-pertemuan5-bintang",
+    "storage_bucket": "praktikum-pertemuan5-bintang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574637158592:android:517386c4b464ab2c9ebd25",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_firebase_pertemuan5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6OjyEgUUamu_SWX16rq1p7QZZYXY_gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
